@@ -1,4 +1,4 @@
-# numeric-nlg
+# numericNLG Dataset
 Data used in [Towards Table-to-Text Generation with Numerical Reasoning](https://aclanthology.org/2021.acl-long.115/ "Towards Table-to-Text Generation with Numerical Reasoning")  (Suadaa et al; ACL-IJCNLP 2021). If you use this data, please cite the above paper.
 <br />
 <br />
