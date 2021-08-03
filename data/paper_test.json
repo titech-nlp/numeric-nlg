@@ -1,0 +1,1034 @@
+[
+    {
+        "paper_id": "D16-1019",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1019.pdf",
+        "title": "Jointly Embedding Knowledge Graphs and Logical Rules"
+    },
+    {
+        "paper_id": "D16-1031",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1031.pdf",
+        "title": "Language as a Latent Variable: Discrete Generative Models for Sentence Compression"
+    },
+    {
+        "paper_id": "D16-1043",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1043.pdf",
+        "title": "Comparing Data Sources and Architectures for Deep Visual Representation Learning in Semantics"
+    },
+    {
+        "paper_id": "D16-1044",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1044.pdf",
+        "title": "Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding"
+    },
+    {
+        "paper_id": "D16-1086",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1086.pdf",
+        "title": "Porting an Open Information Extraction System from English to German"
+    },
+    {
+        "paper_id": "D16-1132",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1132.pdf",
+        "title": "Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network"
+    },
+    {
+        "paper_id": "D16-1136",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1136.pdf",
+        "title": "Learning Crosslingual Word Embeddings without Bilingual Corpora"
+    },
+    {
+        "paper_id": "D16-1168",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1168.pdf",
+        "title": "A Theme-Rewriting Approach for Generating Algebra Word Problems"
+    },
+    {
+        "paper_id": "D16-1188",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1188.pdf",
+        "title": "Regularizing Text Categorization with Clusters of Words"
+    },
+    {
+        "paper_id": "D16-1216",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1216.pdf",
+        "title": "Interpreting Neural Networks to Improve Politeness Comprehension"
+    },
+    {
+        "paper_id": "D16-1220",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1220.pdf",
+        "title": "Learning to Identify Metaphors from a Corpus of Proverbs"
+    },
+    {
+        "paper_id": "D16-1262",
+        "conference": "emnlp",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/D16-1262.pdf",
+        "title": "Global Neural CCG Parsing with Optimality Guarantees"
+    },
+    {
+        "paper_id": "D17-1241",
+        "conference": "emnlp",
+        "year": "2017",
+        "abstract": "In this paper, we demonstrate how the state-of-the-art machine learning and text mining techniques can be used to build effective social media-based substance use detection systems. Since a substance use ground truth is difficult to obtain on a large scale, to maximize system performance, we explore different unsupervised feature learning methods to take advantage of a large amount of unsupervised social media data. We also demonstrate the benefit of using multi-view unsupervised feature learning to combine heterogeneous user information such as Facebook \u201clikes\u201d and \u201cstatus updates\u201d to enhance system performance. Based on our evaluation, our best models achieved 86% AUC for predicting tobacco use, 81% for alcohol use and 84% for illicit drug use, all of which significantly outperformed existing methods. Our investigation has also uncovered interesting relations between a user\u2019s social media behavior (e.g., word usage) and substance use.",
+        "url_pdf": "https://www.aclweb.org/anthology/D17-1241.pdf",
+        "title": "Multi-View Unsupervised User Feature Embedding for Social Media-based Substance Use Prediction"
+    },
+    {
+        "paper_id": "D17-1245",
+        "conference": "emnlp",
+        "year": "2017",
+        "abstract": "Social media collect and spread on the Web personal opinions, facts, fake news and all kind of information users may be interested in. Applying argument mining methods to such heterogeneous data sources is a challenging open research issue, in particular considering the peculiarities of the language used to write textual messages on social media. In addition, new issues emerge when dealing with arguments posted on such platforms, such as the need to make a distinction between personal opinions and actual facts, and to detect the source disseminating information about such facts to allow for provenance verification. In this paper, we apply supervised classification to identify arguments on Twitter, and we present two new tasks for argument mining, namely facts recognition and source identification. We study the feasibility of the approaches proposed to address these tasks on a set of tweets related to the Grexit and Brexit news topics.",
+        "url_pdf": "https://www.aclweb.org/anthology/D17-1245.pdf",
+        "title": "Argument Mining on Twitter: Arguments, Facts and Sources"
+    },
+    {
+        "paper_id": "D17-1254",
+        "conference": "emnlp",
+        "year": "2017",
+        "abstract": "We propose a new encoder-decoder approach to learn distributed sentence representations that are applicable to multiple purposes. The model is learned by using a convolutional neural network as an encoder to map an input sentence into a continuous vector, and using a long short-term memory recurrent neural network as a decoder. Several tasks are considered, including sentence reconstruction and future sentence prediction. Further, a hierarchical encoder-decoder model is proposed to encode a sentence to predict multiple future sentences. By training our models on a large collection of novels, we obtain a highly generic convolutional sentence encoder that performs well in practice. Experimental results on several benchmark datasets, and across a broad range of applications, demonstrate the superiority of the proposed model over competing methods.",
+        "url_pdf": "https://www.aclweb.org/anthology/D17-1254.pdf",
+        "title": "Learning Generic Sentence Representations Using Convolutional Neural Networks"
+    },
+    {
+        "paper_id": "D17-1267",
+        "conference": "emnlp",
+        "year": "2017",
+        "abstract": "We present a system for identifying cognate sets across dictionaries of related languages. The likelihood of a cognate relationship is calculated on the basis of a rich set of features that capture both phonetic and semantic similarity, as well as the presence of regular sound correspondences. The similarity scores are used to cluster words from different languages that may originate from a common proto-word. When tested on the Algonquian language family, our system detects 63% of cognate sets while maintaining cluster purity of 70%.",
+        "url_pdf": "https://www.aclweb.org/anthology/D17-1267.pdf",
+        "title": "Identifying Cognate Sets Across Dictionaries of Related Languages"
+    },
+    {
+        "paper_id": "D17-1304",
+        "conference": "emnlp",
+        "year": "2017",
+        "abstract": "Source dependency information has been successfully introduced into statistical machine translation. However, there are only a few preliminary attempts for Neural Machine Translation (NMT), such as concatenating representations of source word and its dependency label together. In this paper, we propose a novel NMT with source dependency representation to improve translation performance of NMT, especially long sentences. Empirical results on NIST Chinese-to-English translation task show that our method achieves 1.6 BLEU improvements on average over a strong NMT system.",
+        "url_pdf": "https://www.aclweb.org/anthology/D17-1304.pdf",
+        "title": "Neural Machine Translation with Source Dependency Representation"
+    },
+    {
+        "paper_id": "D17-1309",
+        "conference": "emnlp",
+        "year": "2017",
+        "abstract": "We show that small and shallow feed-forward neural networks can achieve near state-of-the-art results on a range of unstructured and structured language processing tasks while being considerably cheaper in memory and computational requirements than deep recurrent models. Motivated by resource-constrained environments like mobile phones, we showcase simple techniques for obtaining such small neural network models, and investigate different tradeoffs when deciding how to allocate a small memory budget.",
+        "url_pdf": "https://www.aclweb.org/anthology/D17-1309.pdf",
+        "title": "Natural Language Processing with Small Feed-Forward Networks"
+    },
+    {
+        "paper_id": "D18-1033",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Sememes are defined as the minimum semantic units of human languages. As important knowledge sources, sememe-based linguistic knowledge bases have been widely used in many NLP tasks. However, most languages still do not have sememe-based linguistic knowledge bases. Thus we present a task of cross-lingual lexical sememe prediction, aiming to automatically predict sememes for words in other languages. We propose a novel framework to model correlations between sememes and multi-lingual words in low-dimensional semantic space for sememe prediction. Experimental results on real-world datasets show that our proposed model achieves consistent and significant improvements as compared to baseline methods in cross-lingual sememe prediction. The codes and data of this paper are available at https://github.com/thunlp/CL-SP.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1033.pdf",
+        "title": "Cross-lingual Lexical Sememe Prediction"
+    },
+    {
+        "paper_id": "D18-1049",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Although the Transformer translation model (Vaswani et al., 2017) has achieved state-of-the-art performance in a variety of translation tasks, how to use document-level context to deal with discourse phenomena problematic for Transformer still remains a challenge. In this work, we extend the Transformer model with a new context encoder to represent document-level context, which is then incorporated into the original encoder and decoder. As large-scale document-level parallel corpora are usually not available, we introduce a two-step training method to take full advantage of abundant sentence-level parallel corpora and limited document-level parallel corpora. Experiments on the NIST Chinese-English datasets and the IWSLT French-English datasets show that our approach improves over Transformer significantly.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1049.pdf",
+        "title": "Improving the Transformer Translation Model with Document-Level Context"
+    },
+    {
+        "paper_id": "D18-1054",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "In recent years many deep neural networks have been proposed to solve Reading Comprehension (RC) tasks. Most of these models suffer from reasoning over long documents and do not trivially generalize to cases where the answer is not present as a span in a given document. We present a novel neural-based architecture that is capable of extracting relevant regions based on a given question-document pair and generating a well-formed answer. To show the effectiveness of our architecture, we conducted several experiments on the recently proposed and challenging RC dataset \u2018NarrativeQA\u2019. The proposed architecture outperforms state-of-the-art results by 12.62% (ROUGE-L) relative improvement.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1054.pdf",
+        "title": "Cut to the Chase: A Context Zoom-in Network for Reading Comprehension"
+    },
+    {
+        "paper_id": "D18-1058",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Capturing the semantic relations of words in a vector space contributes to many natural language processing tasks. One promising approach exploits lexico-syntactic patterns as features of word pairs. In this paper, we propose a novel model of this pattern-based approach, neural latent relational analysis (NLRA). NLRA can generalize co-occurrences of word pairs and lexico-syntactic patterns, and obtain embeddings of the word pairs that do not co-occur. This overcomes the critical data sparseness problem encountered in previous pattern-based models. Our experimental results on measuring relational similarity demonstrate that NLRA outperforms the previous pattern-based models. In addition, when combined with a vector offset model, NLRA achieves a performance comparable to that of the state-of-the-art model that exploits additional semantic relational data.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1058.pdf",
+        "title": "Neural Latent Relational Analysis to Capture Lexical Semantic Relations in a Vector Space"
+    },
+    {
+        "paper_id": "D18-1082",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "How to generate relevant and informative responses is one of the core topics in response generation area. Following the task formulation of machine translation, previous works mainly consider response generation task as a mapping from a source sentence to a target sentence. To realize this mapping, existing works tend to design intuitive but complex models. However, the relevant information existed in large dialogue corpus is mainly overlooked. In this paper, we propose Sequence to Sequence with Prototype Memory Network (S2SPMN) to exploit the relevant information provided by the large dialogue corpus to enhance response generation. Specifically, we devise two simple approaches in S2SPMN to select the relevant information (named prototypes) from the dialogue corpus. These prototypes are then saved into prototype memory network (PMN). Furthermore, a hierarchical attention mechanism is devised to extract the semantic information from the PMN to assist the response generation process. Empirical studies reveal the advantage of our model over several classical and strong baselines.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1082.pdf",
+        "title": "S2SPMN: A Simple and Effective Framework for Response Generation with Relevant Information"
+    },
+    {
+        "paper_id": "D18-1160",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Unsupervised learning of syntactic structure is typically performed using generative models with discrete latent variables and multinomial parameters. In most cases, these models have not leveraged continuous word representations. In this work, we propose a novel generative model that jointly learns discrete syntactic structure and continuous word representations in an unsupervised fashion by cascading an invertible neural network with a structured generative prior. We show that the invertibility condition allows for efficient exact inference and marginal likelihood computation in our model so long as the prior is well-behaved. In experiments we instantiate our approach with both Markov and tree-structured priors, evaluating on two tasks: part-of-speech (POS) induction, and unsupervised dependency parsing without gold POS annotation. On the Penn Treebank, our Markov-structured model surpasses state-of-the-art results on POS induction. Similarly, we find that our tree-structured model achieves state-of-the-art performance on unsupervised dependency parsing for the difficult training condition where neither gold POS annotation nor punctuation-based constraints are available.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1160.pdf",
+        "title": "Unsupervised Learning of Syntactic Structure with Invertible Neural Projections"
+    },
+    {
+        "paper_id": "D18-1166",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Understanding and reasoning about cooking recipes is a fruitful research direction towards enabling machines to interpret procedural text. In this work, we introduce RecipeQA, a dataset for multimodal comprehension of cooking recipes. It comprises of approximately 20K instructional recipes with multiple modalities such as titles, descriptions and aligned set of images. With over 36K automatically generated question-answer pairs, we design a set of comprehension and reasoning tasks that require joint understanding of images and text, capturing the temporal flow of events and making sense of procedural knowledge. Our preliminary results indicate that RecipeQA will serve as a challenging test bed and an ideal benchmark for evaluating machine comprehension systems. The data and leaderboard are available at http://hucvl.github.io/recipeqa.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1166.pdf",
+        "title": "RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes"
+    },
+    {
+        "paper_id": "D18-1176",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "While one of the first steps in many NLP systems is selecting what pre-trained word embeddings to use, we argue that such a step is better left for neural networks to figure out by themselves. To that end, we introduce dynamic meta-embeddings, a simple yet effective method for the supervised learning of embedding ensembles, which leads to state-of-the-art performance within the same model class on a variety of tasks. We subsequently show how the technique can be used to shed new light on the usage of word embeddings in NLP systems.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1176.pdf",
+        "title": "Dynamic Meta-Embeddings for Improved Sentence Representations"
+    },
+    {
+        "paper_id": "D18-1188",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "In this paper, we study how to learn a semantic parser of state-of-the-art accuracy with less supervised training data. We conduct our study on WikiSQL, the largest hand-annotated semantic parsing dataset to date. First, we demonstrate that question generation is an effective method that empowers us to learn a state-of-the-art neural network based semantic parser with thirty percent of the supervised training data. Second, we show that applying question generation to the full supervised training data further improves the state-of-the-art model. In addition, we observe that there is a logarithmic relationship between the accuracy of a semantic parser and the amount of training data.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1188.pdf",
+        "title": "Question Generation from SQL Queries Improves Neural Semantic Parsing"
+    },
+    {
+        "paper_id": "D18-1219",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Previous work on bridging anaphora resolution (Poesio et al., 2004; Hou et al., 2013) use syntactic preposition patterns to calculate word relatedness. However, such patterns only consider NPs\u2019 head nouns and hence do not fully capture the semantics of NPs. Recently, Hou (2018) created word embeddings (embeddings_PP) to capture associative similarity (i.e., relatedness) between nouns by exploring the syntactic structure of noun phrases. But embeddings_PP only contains word representations for nouns. In this paper, we create new word vectors by combining embeddings_PP with GloVe. This new word embeddings (embeddings_bridging) are a more general lexical knowledge resource for bridging and allow us to represent the meaning of an NP beyond its head easily. We therefore develop a deterministic approach for bridging anaphora resolution, which represents the semantics of an NP based on its head noun and modifications. We show that this simple approach achieves the competitive results compared to the best system in Hou et al. (2013) which explores Markov Logic Networks to model the problem. Additionally, we further improve the results for bridging anaphora resolution reported in Hou (2018) by combining our simple deterministic approach with Hou et al. (2013)\u2019s best system MLN II.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1219.pdf",
+        "title": "A Deterministic Algorithm for Bridging Anaphora Resolution"
+    },
+    {
+        "paper_id": "D18-1262",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Semantic role labeling (SRL) aims to recognize the predicate-argument structure of a sentence. Syntactic information has been paid a great attention over the role of enhancing SRL. However, the latest advance shows that syntax would not be so important for SRL with the emerging much smaller gap between syntax-aware and syntax-agnostic SRL. To comprehensively explore the role of syntax for SRL task, we extend existing models and propose a unified framework to investigate more effective and more diverse ways of incorporating syntax into sequential neural networks. Exploring the effect of syntactic input quality on SRL performance, we confirm that high-quality syntactic parse could still effectively enhance syntactically-driven SRL. Using empirically optimized integration strategy, we even enlarge the gap between syntax-aware and syntax-agnostic SRL. Our framework achieves state-of-the-art results on CoNLL-2009 benchmarks both for English and Chinese, substantially outperforming all previous models.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1262.pdf",
+        "title": "A Unified Syntax-aware Framework for Semantic Role Labeling"
+    },
+    {
+        "paper_id": "D18-1273",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Chinese spelling check (CSC) is a challenging yet meaningful task, which not only serves as a preprocessing in many natural language processing(NLP) applications, but also facilitates reading and understanding of running texts in peoples\u2019 daily lives. However, to utilize data-driven approaches for CSC, there is one major limitation that annotated corpora are not enough in applying algorithms and building models. In this paper, we propose a novel approach of constructing CSC corpus with automatically generated spelling errors, which are either visually or phonologically resembled characters, corresponding to the OCR- and ASR-based methods, respectively. Upon the constructed corpus, different models are trained and evaluated for CSC with respect to three standard test sets. Experimental results demonstrate the effectiveness of the corpus, therefore confirm the validity of our approach.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1273.pdf",
+        "title": "A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check"
+    },
+    {
+        "paper_id": "D18-1276",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "The configurational information in sentences of a free word order language such as Sanskrit is of limited use. Thus, the context of the entire sentence will be desirable even for basic processing tasks such as word segmentation. We propose a structured prediction framework that jointly solves the word segmentation and morphological tagging tasks in Sanskrit. We build an energy based model where we adopt approaches generally employed in graph based parsing techniques (McDonald et al., 2005a; Carreras, 2007). Our model outperforms the state of the art with an F-Score of 96.92 (percentage improvement of 7.06%) while using less than one tenth of the task-specific training data. We find that the use of a graph based approach instead of a traditional lattice-based sequential labelling approach leads to a percentage gain of 12.6% in F-Score for the segmentation task.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1276.pdf",
+        "title": "Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit"
+    },
+    {
+        "paper_id": "D18-1281",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Thanks to the success of object detection technology, we can retrieve objects of the specified classes even from huge image collections. However, the current state-of-the-art object detectors (such as Faster R-CNN) can only handle pre-specified classes. In addition, large amounts of positive and negative visual samples are required for training. In this paper, we address the problem of open-vocabulary object retrieval and localization, where the target object is specified by a textual query (e.g., a word or phrase). We first propose Query-Adaptive R-CNN, a simple extension of Faster R-CNN adapted to open-vocabulary queries, by transforming the text embedding vector into an object classifier and localization regressor. Then, for discriminative training, we then propose negative phrase augmentation (NPA) to mine hard negative samples which are visually similar to the query and at the same time semantically mutually exclusive of the query. The proposed method can retrieve and localize objects specified by a textual query from one million images in only 0.5 seconds with high precision.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1281.pdf",
+        "title": "Discriminative Learning of Open-Vocabulary Object Retrieval and Localization by Negative Phrase Augmentation"
+    },
+    {
+        "paper_id": "D18-1303",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "With the recent rise of #MeToo, an increasing number of personal stories about sexual harassment and sexual abuse have been shared online. In order to push forward the fight against such harassment and abuse, we present the task of automatically categorizing and analyzing various forms of sexual harassment, based on stories shared on the online forum SafeCity. For the labels of groping, ogling, and commenting, our single-label CNN-RNN model achieves an accuracy of 86.5%, and our multi-label model achieves a Hamming score of 82.5%. Furthermore, we present analysis using LIME, first-derivative saliency heatmaps, activation clustering, and embedding visualization to interpret neural model predictions and demonstrate how this helps extract features that can help automatically fill out incident reports, identify unsafe areas, avoid unsafe practices, and \u2018pin the creeps\u2019.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1303.pdf",
+        "title": "SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories"
+    },
+    {
+        "paper_id": "D18-1349",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Prevalent models based on artificial neural network (ANN) for sentence classification often classify sentences in isolation without considering the context in which sentences appear. This hampers the traditional sentence classification approaches to the problem of sequential sentence classification, where structured prediction is needed for better overall classification performance. In this work, we present a hierarchical sequential labeling network to make use of the contextual information within surrounding sentences to help classify the current sentence. Our model outperforms the state-of-the-art results by 2%-3% on two benchmarking datasets for sequential sentence classification in medical scientific abstracts.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1349.pdf",
+        "title": "Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts"
+    },
+    {
+        "paper_id": "D18-1351",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Many classification models work poorly on short texts due to data sparsity. To address this issue, we propose topic memory networks for short text classification with a novel topic memory mechanism to encode latent topic representations indicative of class labels. Different from most prior work that focuses on extending features with external knowledge or pre-trained topics, our model jointly explores topic inference and text classification with memory networks in an end-to-end manner. Experimental results on four benchmark datasets show that our model outperforms state-of-the-art models on short text classification, meanwhile generates coherent topics.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1351.pdf",
+        "title": "Topic Memory Networks for Short Text Classification"
+    },
+    {
+        "paper_id": "D18-1362",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Multi-hop reasoning is an effective approach for query answering (QA) over incomplete knowledge graphs (KGs). The problem can be formulated in a reinforcement learning (RL) setup, where a policy-based agent sequentially extends its inference path until it reaches a target. However, in an incomplete KG environment, the agent receives low-quality rewards corrupted by false negatives in the training data, which harms generalization at test time. Furthermore, since no golden action sequence is used for training, the agent can be misled by spurious search trajectories that incidentally lead to the correct answer. We propose two modeling advances to address both issues: (1) we reduce the impact of false negative supervision by adopting a pretrained one-hop embedding model to estimate the reward of unobserved facts; (2) we counter the sensitivity to spurious paths of on-policy RL by forcing the agent to explore a diverse set of paths using randomly generated edge masks. Our approach significantly improves over existing path-based KGQA models on several benchmark datasets and is comparable or better than embedding-based models.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1362.pdf",
+        "title": "Multi-Hop Knowledge Graph Reasoning with Reward Shaping"
+    },
+    {
+        "paper_id": "D18-1363",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Neural state-of-the-art sequence-to-sequence (seq2seq) models often do not perform well for small training sets. We address paradigm completion, the morphological task of, given a partial paradigm, generating all missing forms. We propose two new methods for the minimal-resource setting: (i) Paradigm transduction: Since we assume only few paradigms available for training, neural seq2seq models are able to capture relationships between paradigm cells, but are tied to the idiosyncracies of the training set. Paradigm transduction mitigates this problem by exploiting the input subset of inflected forms at test time. (ii) Source selection with high precision (SHIP): Multi-source models which learn to automatically select one or multiple sources to predict a target inflection do not perform well in the minimal-resource setting. SHIP is an alternative to identify a reliable source if training data is limited. On a 52-language benchmark dataset, we outperform the previous state of the art by up to 9.71% absolute accuracy.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1363.pdf",
+        "title": "Neural Transductive Learning and Beyond: Morphological Generation in the Minimal-Resource Setting"
+    },
+    {
+        "paper_id": "D18-1368",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Capabilities to categorize a clause based on the type of situation entity (e.g., events, states and generic statements) the clause introduces to the discourse can benefit many NLP applications. Observing that the situation entity type of a clause depends on discourse functions the clause plays in a paragraph and the interpretation of discourse functions depends heavily on paragraph-wide contexts, we propose to build context-aware clause representations for predicting situation entity types of clauses. Specifically, we propose a hierarchical recurrent neural network model to read a whole paragraph at a time and jointly learn representations for all the clauses in the paragraph by extensively modeling context influences and inter-dependencies of clauses. Experimental results show that our model achieves the state-of-the-art performance for clause-level situation entity classification on the genre-rich MASC+Wiki corpus, which approaches human-level performance.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1368.pdf",
+        "title": "Building Context-aware Clause Representations for Situation Entity Type Classification"
+    },
+    {
+        "paper_id": "D18-1369",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "In news and discussions, many articles and posts are provided without their related previous articles or posts. Hence, it is difficult to understand the context from which the articles and posts have occurred. In this paper, we propose the Hierarchical Dirichlet Gaussian Marked Hawkes process (HD-GMHP) for reconstructing the narratives and thread structures of news articles and discussion posts. HD-GMHP unifies three modeling strategies in previous research: temporal characteristics, triggering event relations, and meta information of text in news articles and discussion threads. To show the effectiveness of the model, we perform experiments in narrative reconstruction and thread reconstruction with real world datasets: articles from the New York Times and a corpus of Wikipedia conversations. The experimental results show that HD-GMHP outperforms the baselines of LDA, HDP, and HDHP for both tasks.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1369.pdf",
+        "title": "Hierarchical Dirichlet Gaussian Marked Hawkes Process for Narrative Reconstruction in Continuous Time Domain"
+    },
+    {
+        "paper_id": "D18-1381",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "This paper proposes a new neural architecture that exploits readily available sentiment lexicon resources. The key idea is that that incorporating a word-level prior can aid in the representation learning process, eventually improving model performance. To this end, our model employs two distinctly unique components, i.e., (1) we introduce a lexicon-driven contextual attention mechanism to imbue lexicon words with long-range contextual information and (2), we introduce a contrastive co-attention mechanism that models contrasting polarities between all positive and negative words in a sentence. Via extensive experiments, we show that our approach outperforms many other neural baselines on sentiment classification tasks on multiple benchmark datasets.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1381.pdf",
+        "title": "Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification"
+    },
+    {
+        "paper_id": "D18-1396",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Neural machine translation usually adopts autoregressive models and suffers from exposure bias as well as the consequent error propagation problem. Many previous works have discussed the relationship between error propagation and the accuracy drop (i.e., the left part of the translated sentence is often better than its right part in left-to-right decoding models) problem. In this paper, we conduct a series of analyses to deeply understand this problem and get several interesting findings. (1) The role of error propagation on accuracy drop is overstated in the literature, although it indeed contributes to the accuracy drop problem. (2) Characteristics of a language play a more important role in causing the accuracy drop: the left part of the translation result in a right-branching language (e.g., English) is more likely to be more accurate than its right part, while the right part is more accurate for a left-branching language (e.g., Japanese). Our discoveries are confirmed on different model structures including Transformer and RNN, and in other sequence generation tasks such as text summarization.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1396.pdf",
+        "title": "Beyond Error Propagation in Neural Machine Translation: Characteristics of Language Also Matter"
+    },
+    {
+        "paper_id": "D18-1400",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "We introduce a novel multimodal machine translation model that utilizes parallel visual and textual information. Our model jointly optimizes the learning of a shared visual-language embedding and a translator. The model leverages a visual attention grounding mechanism that links the visual semantics with the corresponding textual semantics. Our approach achieves competitive state-of-the-art results on the Multi30K and the Ambiguous COCO datasets. We also collected a new multilingual multimodal product description dataset to simulate a real-world international online shopping scenario. On this dataset, our visual attention grounding model outperforms other methods by a large margin.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1400.pdf",
+        "title": "A Visual Attention Grounding Neural Model for Multimodal Machine Translation"
+    },
+    {
+        "paper_id": "D18-1401",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "In an e-commerce environment, user-oriented question-answering (QA) text pair could carry rich sentiment information. In this study, we propose a novel task/method to address QA sentiment analysis. In particular, we create a high-quality annotated corpus with specially-designed annotation guidelines for QA-style sentiment classification. On the basis, we propose a three-stage hierarchical matching network to explore deep sentiment information in a QA text pair. First, we segment both the question and answer text into sentences and construct a number of [Q-sentence, A-sentence] units in each QA text pair. Then, by leveraging a QA bidirectional matching layer, the proposed approach can learn the matching vectors of each [Q-sentence, A-sentence] unit. Finally, we characterize the importance of the generated matching vectors via a self-matching attention layer. Experimental results, comparing with a number of state-of-the-art baselines, demonstrate the impressive effectiveness of the proposed approach for QA-style sentiment classification.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1401.pdf",
+        "title": "Sentiment Classification towards Question-Answering with Hierarchical Matching Network"
+    },
+    {
+        "paper_id": "D18-1408",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Universal sentence encoding is a hot topic in recent NLP research. Attention mechanism has been an integral part in many sentence encoding models, allowing the models to capture context dependencies regardless of the distance between the elements in the sequence. Fully attention-based models have recently attracted enormous interest due to their highly parallelizable computation and significantly less training time. However, the memory consumption of their models grows quadratically with the sentence length, and the syntactic information is neglected. To this end, we propose Phrase-level Self-Attention Networks (PSAN) that perform self-attention across words inside a phrase to capture context dependencies at the phrase level, and use the gated memory updating mechanism to refine each word\u2019s representation hierarchically with longer-term context dependencies captured in a larger phrase. As a result, the memory consumption can be reduced because the self-attention is performed at the phrase level instead of the sentence level. At the same time, syntactic information can be easily integrated in the model. Experiment results show that PSAN can achieve the state-of-the-art performance across a plethora of NLP tasks including binary and multi-class classification, natural language inference and sentence similarity.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1408.pdf",
+        "title": "Phrase-level Self-Attention Networks for Universal Sentence Encoding"
+    },
+    {
+        "paper_id": "D18-1417",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Spoken Language Understanding (SLU), which typically involves intent determination and slot filling, is a core component of spoken dialogue systems. Joint learning has shown to be effective in SLU given that slot tags and intents are supposed to share knowledge with each other. However, most existing joint learning methods only consider joint learning by sharing parameters on surface level rather than semantic level. In this work, we propose a novel self-attentive model with gate mechanism to fully utilize the semantic correlation between slot and intent. Our model first obtains intent-augmented embeddings based on neural network with self-attention mechanism. And then the intent semantic representation is utilized as the gate for labelling slot tags. The objectives of both tasks are optimized simultaneously via joint learning in an end-to-end way. We conduct experiment on popular benchmark ATIS. The results show that our model achieves state-of-the-art and outperforms other popular methods by a large margin in terms of both intent detection error rate and slot filling F1-score. This paper gives a new perspective for research on SLU.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1417.pdf",
+        "title": "A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding"
+    },
+    {
+        "paper_id": "D18-1421",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Automatic generation of paraphrases from a given sentence is an important yet challenging task in natural language processing (NLP). In this paper, we present a deep reinforcement learning approach to paraphrase generation. Specifically, we propose a new framework for the task, which consists of a generator and an evaluator, both of which are learned from data. The generator, built as a sequence-to-sequence learning model, can produce paraphrases given a sentence. The evaluator, constructed as a deep matching model, can judge whether two sentences are paraphrases of each other. The generator is first trained by deep learning and then further fine-tuned by reinforcement learning in which the reward is given by the evaluator. For the learning of the evaluator, we propose two methods based on supervised learning and inverse reinforcement learning respectively, depending on the type of available training data. Experimental results on two datasets demonstrate the proposed models (the generators) can produce more accurate paraphrases and outperform the state-of-the-art methods in paraphrase generation in both automatic evaluation and human evaluation.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1421.pdf",
+        "title": "Paraphrase Generation with Deep Reinforcement Learning"
+    },
+    {
+        "paper_id": "D18-1448",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Multimodal summarization has drawn much attention due to the rapid growth of multimedia data. The output of the current multimodal summarization systems is usually represented in texts. However, we have found through experiments that multimodal output can significantly improve user satisfaction for informativeness of summaries. In this paper, we propose a novel task, multimodal summarization with multimodal output (MSMO). To handle this task, we first collect a large-scale dataset for MSMO research. We then propose a multimodal attention model to jointly generate text and select the most relevant image from the multimodal input. Finally, to evaluate multimodal outputs, we construct a novel multimodal automatic evaluation (MMAE) method which considers both intra-modality salience and inter-modality relevance. The experimental results show the effectiveness of MMAE.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1448.pdf",
+        "title": "MSMO: Multimodal Summarization with Multimodal Output"
+    },
+    {
+        "paper_id": "D18-1486",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "Multi-task learning has an ability to share the knowledge among related tasks and implicitly increase the training data. However, it has long been frustrated by the interference among tasks. This paper investigates the performance of capsule network for text, and proposes a capsule-based multi-task learning architecture, which is unified, simple and effective. With the advantages of capsules for feature clustering, proposed task routing algorithm can cluster the features for each task in the network, which helps reduce the interference among tasks. Experiments on six text classification datasets demonstrate the effectiveness of our models and their characteristics for feature clustering.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1486.pdf",
+        "title": "MCapsNet: Capsule Network for Text with Multi-Task Learning"
+    },
+    {
+        "paper_id": "D18-1533",
+        "conference": "emnlp",
+        "year": "2018",
+        "abstract": "In contrast to the older writing system of the 19th century, modern Hawaiian orthography employs characters for long vowels and glottal stops. These extra characters account for about one-third of the phonemes in Hawaiian, so including them makes a big difference to reading comprehension and pronunciation. However, transliterating between older and newer texts is a laborious task when performed manually. We introduce two related methods to help solve this transliteration problem automatically. One approach is implemented, end-to-end, using finite state transducers (FSTs). The other is a hybrid deep learning approach, which approximately composes an FST with a recurrent neural network language model.",
+        "url_pdf": "https://www.aclweb.org/anthology/D18-1533.pdf",
+        "title": "Recovering Missing Characters in Old Hawaiian Writing"
+    },
+    {
+        "paper_id": "D19-1037",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Distance supervision is widely used in relation extraction tasks, particularly when large-scale manual annotations are virtually impossible to conduct. Although Distantly Supervised Relation Extraction (DSRE) benefits from automatic labelling, it suffers from serious mislabelling issues, i.e. some or all of the instances for an entity pair (head and tail entities) do not express the labelled relation. In this paper, we propose a novel model that employs a collaborative curriculum learning framework to reduce the effects of mislabelled data. Specifically, we firstly propose an internal self-attention mechanism between the convolution operations in convolutional neural networks (CNNs) to learn a better sentence representation from the noisy inputs. Then we define two sentence selection models as two relation extractors in order to collaboratively learn and regularise each other under a curriculum scheme to alleviate noisy effects, where the curriculum could be constructed by conflicts or small loss. Finally, experiments are conducted on a widely-used public dataset and the results indicate that the proposed model significantly outperforms baselines including the state-of-the-art in terms of P@N and PR curve metrics, thus evidencing its capability of reducing noisy effects for DSRE.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1037.pdf",
+        "title": "Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction"
+    },
+    {
+        "paper_id": "D19-1068",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "The scarcity in annotated data poses a great challenge for event detection (ED). Cross-lingual ED aims to tackle this challenge by transferring knowledge between different languages to boost performance. However, previous cross-lingual methods for ED demonstrated a heavy dependency on parallel resources, which might limit their applicability. In this paper, we propose a new method for cross-lingual ED, demonstrating a minimal dependency on parallel resources. Specifically, to construct a lexical mapping between different languages, we devise a context-dependent translation method; to treat the word order difference problem, we propose a shared syntactic order event detector for multilingual co-training. The efficiency of our method is studied through extensive experiments on two standard datasets. Empirical results indicate that our method is effective in 1) performing cross-lingual transfer concerning different directions and 2) tackling the extremely annotation-poor scenario.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1068.pdf",
+        "title": "Neural Cross-Lingual Event Detection with Minimal Parallel Resources"
+    },
+    {
+        "paper_id": "D19-1070",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Tracking entities in procedural language requires understanding the transformations arising from actions on entities as well as those entities\u2019 interactions. While self-attention-based pre-trained language encoders like GPT and BERT have been successfully applied across a range of natural language understanding tasks, their ability to handle the nuances of procedural texts is still unknown. In this paper, we explore the use of pre-trained transformer networks for entity tracking tasks in procedural text. First, we test standard lightweight approaches for prediction with pre-trained transformers, and find that these approaches underperforms even simple baselines. We show that much stronger results can be attained by restructuring the input to guide the model to focus on a particular entity. Second, we assess the degree to which the transformer networks capture the process dynamics, investigating such factors as merged entities and oblique entity references. On two different tasks, ingredient detection in recipes and QA over scientific processes, we achieve state-of-the-art results, but our models still largely attend to shallow context clues and do not form complex representations of intermediate process state.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1070.pdf",
+        "title": "Effective Use of Transformer Networks for Entity Tracking"
+    },
+    {
+        "paper_id": "D19-1154",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "With the aim of promoting and understanding the multilingual version of image search, we leverage visual object detection and propose a model with diverse multi-head attention to learn grounded multilingual multimodal representations. Specifically, our model attends to different types of textual semantics in two languages and visual objects for fine-grained alignments between sentences and images. We introduce a new objective function which explicitly encourages attention diversity to learn an improved visual-semantic embedding space. We evaluate our model in the German-Image and English-Image matching tasks on the Multi30K dataset, and in the Semantic Textual Similarity task with the English descriptions of visual content. Results show that our model yields a significant performance gain over other methods in all of the three tasks.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1154.pdf",
+        "title": "Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations"
+    },
+    {
+        "paper_id": "D19-1166",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "This work introduces a machine translation task where the output is aimed at audiences of different levels of target language proficiency. We collect a high quality dataset of news articles available in English and Spanish, written for diverse grade levels and propose a method to align segments across comparable bilingual articles. The resulting dataset makes it possible to train multi-task sequence to sequence models that can translate and simplify text jointly. We show that these multi-task models outperform pipeline approaches that translate and simplify text independently.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1166.pdf",
+        "title": "Controlling Text Complexity in Neural Machine Translation"
+    },
+    {
+        "paper_id": "D19-1174",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Sexism, an injustice that subjects women and girls to enormous suffering, manifests in blatant as well as subtle ways. In the wake of growing documentation of experiences of sexism on the web, the automatic categorization of accounts of sexism has the potential to assist social scientists and policy makers in utilizing such data to study and counter sexism better. The existing work on sexism classification, which is different from sexism detection, has certain limitations in terms of the categories of sexism used and/or whether they can co-occur. To the best of our knowledge, this is the first work on the multi-label classification of sexism of any kind(s), and we contribute the largest dataset for sexism categorization. We develop a neural solution for this multi-label classification that can combine sentence representations obtained using models such as BERT with distributional and linguistic word embeddings using a flexible, hierarchical architecture involving recurrent components and optional convolutional ones. Further, we leverage unlabeled accounts of sexism to infuse domain-specific elements into our framework. The best proposed method outperforms several deep learning as well as traditional machine learning baselines by an appreciable margin.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1174.pdf",
+        "title": "Multi-label Categorization of Accounts of Sexism using a Neural Framework"
+    },
+    {
+        "paper_id": "D19-1177",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "To automatically assess the helpfulness of a customer review online, conventional approaches generally acquire various linguistic and neural embedding features solely from the textual content of the review itself as the evidence. We, however, find out that a helpful review is largely concerned with the metadata (such as the name, the brand, the category, etc.) of its target product. It leaves us with a challenge of how to choose the correct key-value product metadata to help appraise the helpfulness of free-text reviews more precisely. To address this problem, we propose a novel framework composed of two mutual-benefit modules. Given a product, a selector (agent) learns from both the keys in the product metadata and one of its reviews to take an action that selects the correct value, and a successive predictor (network) makes the free-text review attend to this value to obtain better neural representations for helpfulness assessment. The predictor is directly optimized by SGD with the loss of helpfulness prediction, and the selector could be updated via policy gradient rewarded with the performance of the predictor. We use two real-world datasets from Amazon.com and Yelp.com, respectively, to compare the performance of our framework with other mainstream methods under two application scenarios: helpfulness identification and regression of customer reviews. Extensive results demonstrate that our framework can achieve state-of-the-art performance with substantial improvements.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1177.pdf",
+        "title": "Reinforced Product Metadata Selection for Helpfulness Assessment of Customer Reviews"
+    },
+    {
+        "paper_id": "D19-1184",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Neural models of dialog rely on generalized latent representations of language. This paper introduces a novel training procedure which explicitly learns multiple representations of language at several levels of granularity. The multi-granularity training algorithm modifies the mechanism by which negative candidate responses are sampled in order to control the granularity of learned latent representations. Strong performance gains are observed on the next utterance retrieval task using both the MultiWOZ dataset and the Ubuntu dialog corpus. Analysis significantly demonstrates that multiple granularities of representation are being learned, and that multi-granularity training facilitates better transfer to downstream tasks.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1184.pdf",
+        "title": "Multi-Granularity Representations of Dialog"
+    },
+    {
+        "paper_id": "D19-1315",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "The automated generation of information indicating the characteristics of articles such as headlines, key phrases, summaries and categories helps writers to alleviate their workload. Previous research has tackled these tasks using neural abstractive summarization and classification methods. However, the outputs may be inconsistent if they are generated individually. The purpose of our study is to generate multiple outputs consistently. We introduce a multi-task learning model with a shared encoder and multiple decoders for each task. We propose a novel loss function called hierarchical consistency loss to maintain consistency among the attention weights of the decoders. To evaluate the consistency, we employ a human evaluation. The results show that our model generates more consistent headlines, key phrases and categories. In addition, our model outperforms the baseline model on the ROUGE scores, and generates more adequate and fluent headlines.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1315.pdf",
+        "title": "Keeping Consistency of Sentence Generation and Document Classification with Multi-Task Learning"
+    },
+    {
+        "paper_id": "D19-1381",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "We tackle the nested and overlapping event detection task and propose a novel search-based neural network (SBNN) structured prediction model that treats the task as a search problem on a relation graph of trigger-argument structures. Unlike existing structured prediction tasks such as dependency parsing, the task targets to detect DAG structures, which constitute events, from the relation graph. We define actions to construct events and use all the beams in a beam search to detect all event structures that may be overlapping and nested. The search process constructs events in a bottom-up manner while modelling the global properties for nested and overlapping structures simultaneously using neural networks. We show that the model achieves performance comparable to the state-of-the-art model Turku Event Extraction System (TEES) on the BioNLP Cancer Genetics (CG) Shared Task 2013 without the use of any syntactic and hand-engineered features. Further analyses on the development set show that our model is more computationally efficient while yielding higher F1-score performance.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1381.pdf",
+        "title": "A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection"
+    },
+    {
+        "paper_id": "D19-1399",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Dependency tree structures capture long-distance and syntactic relationships between words in a sentence. The syntactic relations (e.g., nominal subject, object) can potentially infer the existence of certain named entities. In addition, the performance of a named entity recognizer could benefit from the long-distance dependencies between the words in dependency trees. In this work, we propose a simple yet effective dependency-guided LSTM-CRF model to encode the complete dependency trees and capture the above properties for the task of named entity recognition (NER). The data statistics show strong correlations between the entity types and dependency relations. We conduct extensive experiments on several standard datasets and demonstrate the effectiveness of the proposed model in improving NER and achieving state-of-the-art performance. Our analysis reveals that the significant improvements mainly result from the dependency relations and long-distance interactions provided by dependency trees.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1399.pdf",
+        "title": "Dependency-Guided LSTM-CRF for Named Entity Recognition"
+    },
+    {
+        "paper_id": "D19-1403",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Text classification tends to struggle when data is deficient or when it needs to adapt to unseen classes. In such challenging scenarios, recent studies have used meta-learning to simulate the few-shot task, in which new queries are compared to a small support set at the sample-wise level. However, this sample-wise comparison may be severely disturbed by the various expressions in the same class. Therefore, we should be able to learn a general representation of each class in the support set and then compare it to new queries. In this paper, we propose a novel Induction Network to learn such a generalized class-wise representation, by innovatively leveraging the dynamic routing algorithm in meta-learning. In this way, we find the model is able to induce and generalize better. We evaluate the proposed model on a well-studied sentiment classification dataset (English) and a real-world dialogue intent classification dataset (Chinese). Experiment results show that on both datasets, the proposed model significantly outperforms the existing state-of-the-art approaches, proving the effectiveness of class-wise generalization in few-shot text classification.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1403.pdf",
+        "title": "Induction Networks for Few-Shot Text Classification"
+    },
+    {
+        "paper_id": "D19-1450",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Distributed representations of words which map each word to a continuous vector have proven useful in capturing important linguistic information not only in a single language but also across different languages. Current unsupervised adversarial approaches show that it is possible to build a mapping matrix that aligns two sets of monolingual word embeddings without high quality parallel data, such as a dictionary or a sentence-aligned corpus. However, without an additional step of refinement, the preliminary mapping learnt by these methods is unsatisfactory, leading to poor performance for typologically distant languages. In this paper, we propose a weakly-supervised adversarial training method to overcome this limitation, based on the intuition that mapping across languages is better done at the concept level than at the word level. We propose a concept-based adversarial training method which improves the performance of previous unsupervised adversarial methods for most languages, and especially for typologically distant language pairs.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1450.pdf",
+        "title": "Weakly-Supervised Concept-based Adversarial Learning for Cross-lingual Word Embeddings"
+    },
+    {
+        "paper_id": "D19-1491",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "This paper presents a novel architecture for recursive context-aware lexical simplification, REC-LS, that is capable of (1) making use of the wider context when detecting the words in need of simplification and suggesting alternatives, and (2) taking previous simplification steps into account. We show that our system outputs lexical simplifications that are grammatically correct and semantically appropriate, and outperforms the current state-of-the-art systems in lexical simplification.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1491.pdf",
+        "title": "Recursive Context-Aware Lexical Simplification"
+    },
+    {
+        "paper_id": "D19-1497",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Citation count prediction (CCP) has been an important research task for automatically estimating the future impact of a scholarly paper. Previous studies mainly focus on extracting or mining useful features from the paper itself or the associated authors. An important kind of data signals, peer review text, has not been utilized for the CCP task. In this paper, we take the initiative to utilize peer review data for the CCP task with a neural prediction model. Our focus is to learn a comprehensive semantic representation for peer review text for improving the prediction performance. To achieve this goal, we incorporate the abstract-review match mechanism and the cross-review match mechanism to learn deep features from peer review text. We also consider integrating hand-crafted features via a wide component. The deep and wide components jointly make the prediction. Extensive experiments have demonstrated the usefulness of the peer review data and the effectiveness of the proposed model. Our dataset has been released online.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1497.pdf",
+        "title": "A Neural Citation Count Prediction Model based on Peer Review Text"
+    },
+    {
+        "paper_id": "D19-1507",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Current neural query auto-completion (QAC) systems rely on character-level language models, but they slow down when queries are long. We present how to utilize subword language models for the fast and accurate generation of query completion candidates. Representing queries with subwords shorten a decoding length significantly. To deal with issues coming from introducing subword language model, we develop a retrace algorithm and a reranking method by approximate marginalization. As a result, our model achieves up to 2.5 times faster while maintaining a similar quality of generated results compared to the character-level baseline. Also, we propose a new evaluation metric, mean recoverable length (MRL), measuring how many upcoming characters the model could complete correctly. It provides more explicit meaning and eliminates the need for prefix length sampling for existing rank-based metrics. Moreover, we performed a comprehensive analysis with ablation study to figure out the importance of each component.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1507.pdf",
+        "title": "Subword Language Model for Query Auto-Completion"
+    },
+    {
+        "paper_id": "D19-1512",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Automatic news comment generation is beneficial for real applications but has not attracted enough attention from the research community. In this paper, we propose a \u201cread-attend-comment\u201d procedure for news comment generation and formalize the procedure with a reading network and a generation network. The reading network comprehends a news article and distills some important points from it, then the generation network creates a comment by attending to the extracted discrete points and the news title. We optimize the model in an end-to-end manner by maximizing a variational lower bound of the true objective using the back-propagation algorithm. Experimental results on two public datasets indicate that our model can significantly outperform existing methods in terms of both automatic evaluation and human judgment.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1512.pdf",
+        "title": "Read, Attend and Comment: A Deep Architecture for Automatic News Comment Generation"
+    },
+    {
+        "paper_id": "D19-1581",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Recognizing affective events that trigger positive or negative sentiment has a wide range of natural language processing applications but remains a challenging problem mainly because the polarity of an event is not necessarily predictable from its constituent words. In this paper, we propose to propagate affective polarity using discourse relations. Our method is simple and only requires a very small seed lexicon and a large raw corpus. Our experiments using Japanese data show that our method learns affective events effectively without manually labeled data. It also improves supervised learning results when labeled data are small.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1581.pdf",
+        "title": "Minimally Supervised Learning of Affective Events Using Discourse Relations"
+    },
+    {
+        "paper_id": "D19-1633",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "Most machine translation systems generate text autoregressively from left to right. We, instead, use a masked language modeling objective to train a model to predict any subset of the target words, conditioned on both the input text and a partially masked target translation. This approach allows for efficient iterative decoding, where we first predict all of the target words non-autoregressively, and then repeatedly mask out and regenerate the subset of words that the model is least confident about. By applying this strategy for a constant number of iterations, our model improves state-of-the-art performance levels for non-autoregressive and parallel decoding translation models by over 4 BLEU on average. It is also able to reach within about 1 BLEU point of a typical left-to-right transformer model, while decoding significantly faster.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1633.pdf",
+        "title": "Mask-Predict: Parallel Decoding of Conditional Masked Language Models"
+    },
+    {
+        "paper_id": "D19-1674",
+        "conference": "emnlp",
+        "year": "2019",
+        "abstract": "An anagram is a sentence or a phrase that is made by permutating the characters of an input sentence or a phrase. For example, \u201cTrims cash\u201d is an anagram of \u201cChristmas\u201d. Existing automatic anagram generation methods can find possible combinations of words form an anagram. However, they do not pay much attention to the naturalness of the generated anagrams. In this paper, we show that simple depth-first search can yield natural anagrams when it is combined with modern neural language models. Human evaluation results show that the proposed method can generate significantly more natural anagrams than baseline methods.",
+        "url_pdf": "https://www.aclweb.org/anthology/D19-1674.pdf",
+        "title": "Generating Natural Anagrams: Towards Language Generation Under Hard Combinatorial Constraints"
+    },
+    {
+        "paper_id": "P16-1165",
+        "conference": "acl",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/P16-1165.pdf",
+        "title": "Speech Act Modeling of Written Asynchronous Conversations with Task-Specific Embeddings and Conditional Structured Models"
+    },
+    {
+        "paper_id": "P16-1181",
+        "conference": "acl",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/P16-1181.pdf",
+        "title": "How to Train Dependency Parsers with Inexact Search for Joint Sentence Boundary Detection and Parsing of Entire Documents"
+    },
+    {
+        "paper_id": "P16-1189",
+        "conference": "acl",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/P16-1189.pdf",
+        "title": "Set-Theoretic Alignment for Comparable Corpora"
+    },
+    {
+        "paper_id": "P16-1201",
+        "conference": "acl",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/P16-1201.pdf",
+        "title": "Leveraging FrameNet to Improve Automatic Event Detection"
+    },
+    {
+        "paper_id": "P16-2011",
+        "conference": "acl",
+        "year": "2016",
+        "abstract": "",
+        "url_pdf": "https://www.aclweb.org/anthology/P16-2011.pdf",
+        "title": "A Language-Independent Neural Network for Event Detection"
+    },
+    {
+        "paper_id": "P17-1034",
+        "conference": "acl",
+        "year": "2017",
+        "abstract": "Solving cold-start problem in review spam detection is an urgent and significant task. It can help the on-line review websites to relieve the damage of spammers in time, but has never been investigated by previous work. This paper proposes a novel neural network model to detect review spam for cold-start problem, by learning to represent the new reviewers\u2019 review with jointly embedded textual and behavioral information. Experimental results prove the proposed model achieves an effective performance and possesses preferable domain-adaptability. It is also applicable to a large scale dataset in an unsupervised way.",
+        "url_pdf": "https://www.aclweb.org/anthology/P17-1034.pdf",
+        "title": "Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors"
+    },
+    {
+        "paper_id": "P17-1054",
+        "conference": "acl",
+        "year": "2017",
+        "abstract": "Keyphrase provides highly-summative information that can be effectively used for understanding, organizing and retrieving text content. Though previous studies have provided many workable solutions for automated keyphrase extraction, they commonly divided the to-be-summarized content into multiple text chunks, then ranked and selected the most meaningful ones. These approaches could neither identify keyphrases that do not appear in the text, nor capture the real semantic meaning behind the text. We propose a generative model for keyphrase prediction with an encoder-decoder framework, which can effectively overcome the above drawbacks. We name it as deep keyphrase generation since it attempts to capture the deep semantic meaning of the content with a deep learning method. Empirical analysis on six datasets demonstrates that our proposed model not only achieves a significant performance boost on extracting keyphrases that appear in the source text, but also can generate absent keyphrases based on the semantic meaning of the text. Code and dataset are available at https://github.com/memray/seq2seq-keyphrase.",
+        "url_pdf": "https://www.aclweb.org/anthology/P17-1054.pdf",
+        "title": "Deep Keyphrase Generation"
+    },
+    {
+        "paper_id": "P17-1176",
+        "conference": "acl",
+        "year": "2017",
+        "abstract": "While end-to-end neural machine translation (NMT) has made remarkable progress recently, it still suffers from the data scarcity problem for low-resource language pairs and domains. In this paper, we propose a method for zero-resource NMT by assuming that parallel sentences have close probabilities of generating a sentence in a third language. Based on the assumption, our method is able to train a source-to-target NMT model (\u201cstudent\u201d) without parallel corpora available guided by an existing pivot-to-target NMT model (\u201cteacher\u201d) on a source-pivot parallel corpus. Experimental results show that the proposed method significantly improves over a baseline pivot-based model by +3.0 BLEU points across various language pairs.",
+        "url_pdf": "https://www.aclweb.org/anthology/P17-1176.pdf",
+        "title": "A Teacher-Student Framework for Zero-Resource Neural Machine Translation"
+    },
+    {
+        "paper_id": "P17-1183",
+        "conference": "acl",
+        "year": "2017",
+        "abstract": "We present a neural model for morphological inflection generation which employs a hard attention mechanism, inspired by the nearly-monotonic alignment commonly found between the characters in a word and the characters in its inflection. We evaluate the model on three previously studied morphological inflection generation datasets and show that it provides state of the art results in various setups compared to previous neural and non-neural approaches. Finally we present an analysis of the continuous representations learned by both the hard and soft (Bahdanau, 2014) attention models for the task, shedding some light on the features such models extract.",
+        "url_pdf": "https://www.aclweb.org/anthology/P17-1183.pdf",
+        "title": "Morphological Inflection Generation with Hard Monotonic Attention"
+    },
+    {
+        "paper_id": "P17-1195",
+        "conference": "acl",
+        "year": "2017",
+        "abstract": "We have been developing an end-to-end math problem solving system that accepts natural language input. The current paper focuses on how we analyze the problem sentences to produce logical forms. We chose a hybrid approach combining a shallow syntactic analyzer and a manually-developed lexicalized grammar. A feature of the grammar is that it is extensively typed on the basis of a formal ontology for pre-university math. These types are helpful in semantic disambiguation inside and across sentences. Experimental results show that the hybrid system produces a well-formed logical form with 88% precision and 56% recall.",
+        "url_pdf": "https://www.aclweb.org/anthology/P17-1195.pdf",
+        "title": "Semantic Parsing of Pre-university Math Problems"
+    },
+    {
+        "paper_id": "P17-2030",
+        "conference": "acl",
+        "year": "2017",
+        "abstract": "We propose a new dependency parsing scheme which jointly parses a sentence and repairs grammatical errors by extending the non-directional transition-based formalism of Goldberg and Elhadad (2010) with three additional actions: SUBSTITUTE, DELETE, INSERT. Because these actions may cause an infinite loop in derivation, we also introduce simple constraints that ensure the parser termination. We evaluate our model with respect to dependency accuracy and grammaticality improvements for ungrammatical sentences, demonstrating the robustness and applicability of our scheme.",
+        "url_pdf": "https://www.aclweb.org/anthology/P17-2030.pdf",
+        "title": "Error-repair Dependency Parsing for Ungrammatical Texts"
+    },
+    {
+        "paper_id": "P18-1008",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "The past year has witnessed rapid advances in sequence-to-sequence (seq2seq) modeling for Machine Translation (MT). The classic RNN-based approaches to MT were first out-performed by the convolutional seq2seq model, which was then out-performed by the more recent Transformer model. Each of these new approaches consists of a fundamental architecture accompanied by a set of modeling and training techniques that are in principle applicable to other seq2seq architectures. In this paper, we tease apart the new architectures and their accompanying techniques in two ways. First, we identify several key modeling and training techniques, and apply them to the RNN architecture, yielding a new RNMT+ model that outperforms all of the three fundamental architectures on the benchmark WMT\u201914 English to French and English to German tasks. Second, we analyze the properties of each fundamental seq2seq architecture and devise new hybrid architectures intended to combine their strengths. Our hybrid models obtain further improvements, outperforming the RNMT+ model on both benchmark datasets.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1008.pdf",
+        "title": "The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation"
+    },
+    {
+        "paper_id": "P18-1021",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "High quality arguments are essential elements for human reasoning and decision-making processes. However, effective argument construction is a challenging task for both human and machines. In this work, we study a novel task on automatically generating arguments of a different stance for a given statement. We propose an encoder-decoder style neural network-based argument generation model enriched with externally retrieved evidence from Wikipedia. Our model first generates a set of talking point phrases as intermediate representation, followed by a separate decoder producing the final argument based on both input and the keyphrases. Experiments on a large-scale dataset collected from Reddit show that our model constructs arguments with more topic-relevant content than popular sequence-to-sequence generation models according to automatic evaluation and human assessments.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1021.pdf",
+        "title": "Neural Argument Generation Augmented with Externally Retrieved Evidence"
+    },
+    {
+        "paper_id": "P18-1038",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "We demonstrate that an SHRG-based parser can produce semantic graphs much more accurately than previously shown, by relating synchronous production rules to the syntacto-semantic composition process. Our parser achieves an accuracy of 90.35 for EDS (89.51 for DMRS) in terms of elementary dependency match, which is a 4.87 (5.45) point improvement over the best existing data-driven model, indicating, in our view, the importance of linguistically-informed derivation for data-driven semantic parsing. This accuracy is equivalent to that of English Resource Grammar guided models, suggesting that (recurrent) neural network models are able to effectively learn deep linguistic knowledge from annotations.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1038.pdf",
+        "title": "Accurate SHRG-Based Semantic Parsing"
+    },
+    {
+        "paper_id": "P18-1048",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "Due to the ability of encoding and mapping semantic information into a high-dimensional latent feature space, neural networks have been successfully used for detecting events to a certain extent. However, such a feature space can be easily contaminated by spurious features inherent in event detection. In this paper, we propose a self-regulated learning approach by utilizing a generative adversarial network to generate spurious features. On the basis, we employ a recurrent network to eliminate the fakes. Detailed experiments on the ACE 2005 and TAC-KBP 2015 corpora show that our proposed method is highly effective and adaptable.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1048.pdf",
+        "title": "Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection"
+    },
+    {
+        "paper_id": "P18-1050",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "Inspired by the double temporality characteristic of narrative texts, we propose a novel approach for acquiring rich temporal \u201cbefore/after\u201d event knowledge across sentences in narrative stories. The double temporality states that a narrative story often describes a sequence of events following the chronological order and therefore, the temporal order of events matches with their textual order. We explored narratology principles and built a weakly supervised approach that identifies 287k narrative paragraphs from three large corpora. We then extracted rich temporal event knowledge from these narrative paragraphs. Such event knowledge is shown useful to improve temporal relation classification and outperforms several recent neural network models on the narrative cloze task.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1050.pdf",
+        "title": "Temporal Event Knowledge Acquisition via Identifying Narratives"
+    },
+    {
+        "paper_id": "P18-1076",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "We introduce a neural reading comprehension model that integrates external commonsense knowledge, encoded as a key-value memory, in a cloze-style setting. Instead of relying only on document-to-question interaction or discrete features as in prior work, our model attends to relevant external knowledge and combines this knowledge with the context representation before inferring the answer. This allows the model to attract and imply knowledge from an external knowledge source that is not explicitly stated in the text, but that is relevant for inferring the answer. Our model improves results over a very strong baseline on a hard Common Nouns dataset, making it a strong competitor of much more complex models. By including knowledge explicitly, our model can also provide evidence about the background knowledge used in the RC process.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1076.pdf",
+        "title": "Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge"
+    },
+    {
+        "paper_id": "P18-1101",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "The encoder-decoder dialog model is one of the most prominent methods used to build dialog systems in complex domains. Yet it is limited because it cannot output interpretable actions as in traditional systems, which hinders humans from understanding its generation process. We present an unsupervised discrete sentence representation learning method that can integrate with any existing encoder-decoder dialog models for interpretable response generation. Building upon variational autoencoders (VAEs), we present two novel models, DI-VAE and DI-VST that improve VAEs and can discover interpretable semantics via either auto encoding or context predicting. Our methods have been validated on real-world dialog datasets to discover semantic representations and enhance encoder-decoder models with interpretable generation.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1101.pdf",
+        "title": "Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation"
+    },
+    {
+        "paper_id": "P18-1102",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "In conversation, a general response (e.g., \u201cI don\u2019t know\u201d) could correspond to a large variety of input utterances. Previous generative conversational models usually employ a single model to learn the relationship between different utterance-response pairs, thus tend to favor general and trivial responses which appear frequently. To address this problem, we propose a novel controlled response generation mechanism to handle different utterance-response relationships in terms of specificity. Specifically, we introduce an explicit specificity control variable into a sequence-to-sequence model, which interacts with the usage representation of words through a Gaussian Kernel layer, to guide the model to generate responses at different specificity levels. We describe two ways to acquire distant labels for the specificity control variable in learning. Empirical studies show that our model can significantly outperform the state-of-the-art response generation models under both automatic and human evaluations.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1102.pdf",
+        "title": "Learning to Control the Specificity in Neural Response Generation"
+    },
+    {
+        "paper_id": "P18-1145",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "Neural network based models commonly regard event detection as a word-wise classification task, which suffer from the mismatch problem between words and event triggers, especially in languages without natural word delimiters such as Chinese. In this paper, we propose Nugget Proposal Networks (NPNs), which can solve the word-trigger mismatch problem by directly proposing entire trigger nuggets centered at each character regardless of word boundaries. Specifically, NPNs perform event detection in a character-wise paradigm, where a hybrid representation for each character is first learned to capture both structural and semantic information from both characters and words. Then based on learned representations, trigger nuggets are proposed and categorized by exploiting character compositional structures of Chinese event triggers. Experiments on both ACE2005 and TAC KBP 2017 datasets show that NPNs significantly outperform the state-of-the-art methods.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1145.pdf",
+        "title": "Nugget Proposal Networks for Chinese Event Detection"
+    },
+    {
+        "paper_id": "P18-1168",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "Training semantic parsers from weak supervision (denotations) rather than strong supervision (programs) complicates training in two ways. First, a large search space of potential programs needs to be explored at training time to find a correct program. Second, spurious programs that accidentally lead to a correct denotation add noise to training. In this work we propose that in closed worlds with clear semantic types, one can substantially alleviate these problems by utilizing an abstract representation, where tokens in both the language utterance and program are lifted to an abstract form. We show that these abstractions can be defined with a handful of lexical rules and that they result in sharing between different examples that alleviates the difficulties in training. To test our approach, we develop the first semantic parser for CNLVR, a challenging visual reasoning dataset, where the search space is large and overcoming spuriousness is critical, because denotations are either TRUE or FALSE, and thus random programs are likely to lead to a correct denotation. Our method substantially improves performance, and reaches 82.5% accuracy, a 14.7% absolute accuracy improvement compared to the best reported accuracy so far.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1168.pdf",
+        "title": "Weakly Supervised Semantic Parsing with Abstract Examples"
+    },
+    {
+        "paper_id": "P18-1177",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "We study the task of generating from Wikipedia articles question-answer pairs that cover content beyond a single sentence. We propose a neural network approach that incorporates coreference knowledge via a novel gating mechanism. As compared to models that only take into account sentence-level information (Heilman and Smith, 2010; Du et al., 2017; Zhou et al., 2017), we find that the linguistic knowledge introduced by the coreference representation aids question generation significantly, producing models that outperform the current state-of-the-art. We apply our system (composed of an answer span extraction system and the passage-level QG system) to the 10,000 top ranking Wikipedia articles and create a corpus of over one million question-answer pairs. We provide qualitative analysis for the this large-scale generated corpus from Wikipedia.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1177.pdf",
+        "title": "Harvesting Paragraph-level Question-Answer Pairs from Wikipedia"
+    },
+    {
+        "paper_id": "P18-1188",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "Document modeling is essential to a variety of natural language understanding tasks. We propose to use external information to improve document modeling for problems that can be framed as sentence extraction. We develop a framework composed of a hierarchical document encoder and an attention-based extractor with attention over external information. We evaluate our model on extractive document summarization (where the external information is image captions and the title of the document) and answer selection (where the external information is a question). We show that our model consistently outperforms strong baselines, in terms of both informativeness and fluency (for CNN document summarization) and achieves state-of-the-art results for answer selection on WikiQA and NewsQA.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1188.pdf",
+        "title": "Document Modeling with External Attention for Sentence Extraction"
+    },
+    {
+        "paper_id": "P18-1191",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "We present a new large-scale corpus of Question-Answer driven Semantic Role Labeling (QA-SRL) annotations, and the first high-quality QA-SRL parser. Our corpus, QA-SRL Bank 2.0, consists of over 250,000 question-answer pairs for over 64,000 sentences across 3 domains and was gathered with a new crowd-sourcing scheme that we show has high precision and good recall at modest cost. We also present neural models for two QA-SRL subtasks: detecting argument spans for a predicate and generating questions to label the semantic relationship. The best models achieve question accuracy of 82.6% and span-level accuracy of 77.6% (under human evaluation) on the full pipelined QA-SRL prediction task. They can also, as we show, be used to gather additional annotations at low cost.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1191.pdf",
+        "title": "Large-Scale QA-SRL Parsing"
+    },
+    {
+        "paper_id": "P18-1211",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "We present a generative probabilistic model of documents as sequences of sentences, and show that inference in it can lead to extraction of long-range latent discourse structure from a collection of documents. The approach is based on embedding sequences of sentences from longer texts into a 2- or 3-D spatial grids, in which one or two coordinates model smooth topic transitions, while the third captures the sequential nature of the modeled text. A significant advantage of our approach is that the learned models are naturally visualizable and interpretable, as semantic similarity and sequential structure are modeled along orthogonal directions in the grid. We show that the method is effective in capturing discourse structures in narrative text across multiple genres, including biographies, stories, and newswire reports. In particular, our method outperforms or is competitive with state-of-the-art generative approaches on tasks such as predicting the outcome of a story, and sentence ordering.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1211.pdf",
+        "title": "A Spatial Model for Extracting and Visualizing Latent Discourse Structure in Text"
+    },
+    {
+        "paper_id": "P18-1230",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "Word Sense Disambiguation (WSD) aims to identify the correct meaning of polysemous words in the particular context. Lexical resources like WordNet which are proved to be of great help for WSD in the knowledge-based methods. However, previous neural networks for WSD always rely on massive labeled data (context), ignoring lexical resources like glosses (sense definitions). In this paper, we integrate the context and glosses of the target word into a unified framework in order to make full use of both labeled data and lexical knowledge. Therefore, we propose GAS: a gloss-augmented WSD neural network which jointly encodes the context and glosses of the target word. GAS models the semantic relationship between the context and the gloss in an improved memory network framework, which breaks the barriers of the previous supervised methods and knowledge-based methods. We further extend the original gloss of word sense via its semantic relations in WordNet to enrich the gloss information. The experimental results show that our model outperforms the state-of-the-art systems on several English all-words WSD datasets.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1230.pdf",
+        "title": "Incorporating Glosses into Neural Word Sense Disambiguation"
+    },
+    {
+        "paper_id": "P18-1238",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "We present a new dataset of image caption annotations, Conceptual Captions, which contains an order of magnitude more images than the MS-COCO dataset (Lin et al., 2014) and represents a wider variety of both images and image caption styles. We achieve this by extracting and filtering image caption annotations from billions of webpages. We also present quantitative evaluations of a number of image captioning models and show that a model architecture based on Inception-ResNetv2 (Szegedy et al., 2016) for image-feature extraction and Transformer (Vaswani et al., 2017) for sequence modeling achieves the best performance when trained on the Conceptual Captions dataset.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1238.pdf",
+        "title": "Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning"
+    },
+    {
+        "paper_id": "P18-1239",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "We conduct the most comprehensive study to date into translating words via images. To facilitate research on the task, we introduce a large-scale multilingual corpus of images, each labeled with the word it represents. Past datasets have been limited to only a few high-resource languages and unrealistically easy translation settings. In contrast, we have collected by far the largest available dataset for this task, with images for approximately 10,000 words in each of 100 languages. We run experiments on a dozen high resource languages and 20 low resources languages, demonstrating the effect of word concreteness and part-of-speech on translation quality. %We find that while image features work best for concrete nouns, they are sometimes effective on other parts of speech. To improve image-based translation, we introduce a novel method of predicting word concreteness from images, which improves on a previous state-of-the-art unsupervised technique. This allows us to predict when image-based translation may be effective, enabling consistent improvements to a state-of-the-art text-based word translation system. Our code and the Massively Multilingual Image Dataset (MMID) are available at http://multilingual-images.org/.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-1239.pdf",
+        "title": "Learning Translations via Images with a Massively Multilingual Image Dataset"
+    },
+    {
+        "paper_id": "P18-2009",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "In this paper we suggest to leverage the partition of articles into sections, in order to learn thematic similarity metric between sentences. We assume that a sentence is thematically closer to sentences within its section than to sentences from other sections. Based on this assumption, we use Wikipedia articles to automatically create a large dataset of weakly labeled sentence triplets, composed of a pivot sentence, one sentence from the same section and one from another section. We train a triplet network to embed sentences from the same section closer. To test the performance of the learned embeddings, we create and release a sentence clustering benchmark. We show that the triplet network learns useful thematic metrics, that significantly outperform state-of-the-art semantic similarity methods and multipurpose embeddings on the task of thematic clustering of sentences. We also show that the learned embeddings perform well on the task of sentence semantic similarity prediction.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-2009.pdf",
+        "title": "Learning Thematic Similarity Metric from Article Sections Using Triplet Networks"
+    },
+    {
+        "paper_id": "P18-2015",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "This paper addresses the tasks of automatic seed selection for bootstrapping relation extraction, and noise reduction for distantly supervised relation extraction. We first point out that these tasks are related. Then, inspired by ranking relation instances and patterns computed by the HITS algorithm, and selecting cluster centroids using the K-means, LSA, or NMF method, we propose methods for selecting the initial seeds from an existing resource, or reducing the level of noise in the distantly labeled data. Experiments show that our proposed methods achieve a better performance than the baseline systems in both tasks.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-2015.pdf",
+        "title": "Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction"
+    },
+    {
+        "paper_id": "P18-2022",
+        "conference": "acl",
+        "year": "2018",
+        "abstract": "Humans rely on multiple sensory modalities when examining and reasoning over images. In this paper, we describe a new multimodal dataset that consists of gaze measurements and spoken descriptions collected in parallel during an image inspection task. The task was performed by multiple participants on 100 general-domain images showing everyday objects and activities. We demonstrate the usefulness of the dataset by applying an existing visual-linguistic data fusion framework in order to label important image regions with appropriate linguistic labels.",
+        "url_pdf": "https://www.aclweb.org/anthology/P18-2022.pdf",
+        "title": "SNAG: Spoken Narratives and Gaze Dataset"
+    },
+    {
+        "paper_id": "P19-1013",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "We propose a new domain adaptation method for Combinatory Categorial Grammar (CCG) parsing, based on the idea of automatic generation of CCG corpora exploiting cheaper resources of dependency trees. Our solution is conceptually simple, and not relying on a specific parser architecture, making it applicable to the current best-performing parsers. We conduct extensive parsing experiments with detailed discussion; on top of existing benchmark datasets on (1) biomedical texts and (2) question sentences, we create experimental datasets of (3) speech conversation and (4) math problems. When applied to the proposed method, an off-the-shelf CCG parser shows significant performance gains, improving from 90.7% to 96.6% on speech conversation, and from 88.5% to 96.8% on math problems.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1013.pdf",
+        "title": "Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation"
+    },
+    {
+        "paper_id": "P19-1046",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "We propose a general strategy named \u2018divide, conquer and combine\u2019 for multimodal fusion. Instead of directly fusing features at holistic level, we conduct fusion hierarchically so that both local and global interactions are considered for a comprehensive interpretation of multimodal embeddings. In the \u2018divide\u2019 and \u2018conquer\u2019 stages, we conduct local fusion by exploring the interaction of a portion of the aligned feature vectors across various modalities lying within a sliding window, which ensures that each part of multimodal embeddings are explored sufficiently. On its basis, global fusion is conducted in the \u2018combine\u2019 stage to explore the interconnection across local interactions, via an Attentive Bi-directional Skip-connected LSTM that directly connects distant local interactions and integrates two levels of attention mechanism. In this way, local interactions can exchange information sufficiently and thus obtain an overall view of multimodal information. Our method achieves state-of-the-art performance on multimodal affective computing with higher efficiency.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1046.pdf",
+        "title": "Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing"
+    },
+    {
+        "paper_id": "P19-1064",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Recent neural network models have significantly advanced the task of coreference resolution. However, current neural coreference models are usually trained with heuristic loss functions that are computed over a sequence of local decisions. In this paper, we introduce an end-to-end reinforcement learning based coreference resolution model to directly optimize coreference evaluation metrics. Specifically, we modify the state-of-the-art higher-order mention ranking approach in Lee et al. (2018) to a reinforced policy gradient model by incorporating the reward associated with a sequence of coreference linking actions. Furthermore, we introduce maximum entropy regularization for adequate exploration to prevent the model from prematurely converging to a bad local optimum. Our proposed model achieves new state-of-the-art performance on the English OntoNotes v5.0 benchmark.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1064.pdf",
+        "title": "End-to-end Deep Reinforcement Learning Based Coreference Resolution"
+    },
+    {
+        "paper_id": "P19-1117",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Multilingual neural machine translation (Multi-NMT) with one encoder-decoder model has made remarkable progress due to its simple deployment. However, this multilingual translation paradigm does not make full use of language commonality and parameter sharing between encoder and decoder. Furthermore, this kind of paradigm cannot outperform the individual models trained on bilingual corpus in most cases. In this paper, we propose a compact and language-sensitive method for multilingual translation. To maximize parameter sharing, we first present a universal representor to replace both encoder and decoder models. To make the representor sensitive for specific languages, we further introduce language-sensitive embedding, attention, and discriminator with the ability to enhance model performance. We verify our methods on various translation scenarios, including one-to-many, many-to-many and zero-shot. Extensive experiments demonstrate that our proposed methods remarkably outperform strong standard multilingual translation systems on WMT and IWSLT datasets. Moreover, we find that our model is especially helpful in low-resource and zero-shot translation scenarios.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1117.pdf",
+        "title": "A Compact and Language-Sensitive Multilingual Translation Method"
+    },
+    {
+        "paper_id": "P19-1134",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Distantly supervised relation extraction is widely used to extract relational facts from text, but suffers from noisy labels. Current relation extraction methods try to alleviate the noise by multi-instance learning and by providing supporting linguistic and contextual information to more efficiently guide the relation classification. While achieving state-of-the-art results, we observed these models to be biased towards recognizing a limited set of relations with high precision, while ignoring those in the long tail. To address this gap, we utilize a pre-trained language model, the OpenAI Generative Pre-trained Transformer (GPT) (Radford et al., 2018). The GPT and similar models have been shown to capture semantic and syntactic features, and also a notable amount of \u201ccommon-sense\u201d knowledge, which we hypothesize are important features for recognizing a more diverse set of relations. By extending the GPT to the distantly supervised setting, and fine-tuning it on the NYT10 dataset, we show that it predicts a larger set of distinct relation types with high confidence. Manual and automated evaluation of our model shows that it achieves a state-of-the-art AUC score of 0.422 on the NYT10 dataset, and performs especially well at higher recall levels.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1134.pdf",
+        "title": "Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction"
+    },
+    {
+        "paper_id": "P19-1170",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "In this work we approach the task of learning multilingual word representations in an offline manner by fitting a generative latent variable model to a multilingual dictionary. We model equivalent words in different languages as different views of the same word generated by a common latent variable representing their latent lexical meaning. We explore the task of alignment by querying the fitted model for multilingual embeddings achieving competitive results across a variety of tasks. The proposed model is robust to noise in the embedding space making it a suitable method for distributed representations learned from noisy corpora.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1170.pdf",
+        "title": "Multilingual Factor Analysis"
+    },
+    {
+        "paper_id": "P19-1193",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Automatic topic-to-essay generation is a challenging task since it requires generating novel, diverse, and topic-consistent paragraph-level text with a set of topics as input. Previous work tends to perform essay generation based solely on the given topics while ignoring massive commonsense knowledge. However, this commonsense knowledge provides additional background information, which can help to generate essays that are more novel and diverse. Towards filling this gap, we propose to integrate commonsense from the external knowledge base into the generator through dynamic memory mechanism. Besides, the adversarial training based on a multi-label discriminator is employed to further improve topic-consistency. We also develop a series of automatic evaluation metrics to comprehensively assess the quality of the generated essay. Experiments show that with external commonsense knowledge and adversarial training, the generated essays are more novel, diverse, and topic-consistent than existing methods in terms of both automatic and human evaluation.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1193.pdf",
+        "title": "Enhancing Topic-to-Essay Generation with External Commonsense Knowledge"
+    },
+    {
+        "paper_id": "P19-1230",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Head-driven phrase structure grammar (HPSG) enjoys a uniform formalism representing rich contextual syntactic and even semantic meanings. This paper makes the first attempt to formulate a simplified HPSG by integrating constituent and dependency formal representations into head-driven phrase structure. Then two parsing algorithms are respectively proposed for two converted tree representations, division span and joint span. As HPSG encodes both constituent and dependency structure information, the proposed HPSG parsers may be regarded as a sort of joint decoder for both types of structures and thus are evaluated in terms of extracted or converted constituent and dependency parsing trees. Our parser achieves new state-of-the-art performance for both parsing tasks on Penn Treebank (PTB) and Chinese Penn Treebank, verifying the effectiveness of joint learning constituent and dependency structures. In details, we report 95.84 F1 of constituent parsing and 97.00% UAS of dependency parsing on PTB.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1230.pdf",
+        "title": "Head-Driven Phrase Structure Grammar Parsing on Penn Treebank"
+    },
+    {
+        "paper_id": "P19-1276",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "We consider open domain event extraction, the task of extracting unconstraint types of events from news clusters. A novel latent variable neural model is constructed, which is scalable to very large corpus. A dataset is collected and manually annotated, with task-specific evaluation metrics being designed. Results show that the proposed unsupervised model gives better performance compared to the state-of-the-art method for event schema induction.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1276.pdf",
+        "title": "Open Domain Event Extraction Using Neural Latent Variable Models"
+    },
+    {
+        "paper_id": "P19-1290",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Soft-attention based Neural Machine Translation (NMT) models have achieved promising results on several translation tasks. These models attend all the words in the source sequence for each target token, which makes them ineffective for long sequence translation. In this work, we propose a hard-attention based NMT model which selects a subset of source tokens for each target token to effectively handle long sequence translation. Due to the discrete nature of the hard-attention mechanism, we design a reinforcement learning algorithm coupled with reward shaping strategy to efficiently train it. Experimental results show that the proposed model performs better on long sequences and thereby achieves significant BLEU score improvement on English-German (EN-DE) and English-French (ENFR) translation tasks compared to the soft attention based NMT.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1290.pdf",
+        "title": "Look Harder: A Neural Machine Translation Model with Hard Attention"
+    },
+    {
+        "paper_id": "P19-1305",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Abstractive Sentence Summarization (ASSUM) targets at grasping the core idea of the source sentence and presenting it as the summary. It is extensively studied using statistical models or neural models based on the large-scale monolingual source-summary parallel corpus. But there is no cross-lingual parallel corpus, whose source sentence language is different to the summary language, to directly train a cross-lingual ASSUM system. We propose to solve this zero-shot problem by using resource-rich monolingual ASSUM system to teach zero-shot cross-lingual ASSUM system on both summary word generation and attention. This teaching process is along with a back-translation process which simulates source-summary pairs. Experiments on cross-lingual ASSUM task show that our proposed method is significantly better than pipeline baselines and previous works, and greatly enhances the cross-lingual performances closer to the monolingual performances.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1305.pdf",
+        "title": "Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention"
+    },
+    {
+        "paper_id": "P19-1309",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Machine translation is highly sensitive to the size and quality of the training data, which has led to an increasing interest in collecting and filtering large parallel corpora. In this paper, we propose a new method for this task based on multilingual sentence embeddings. In contrast to previous approaches, which rely on nearest neighbor retrieval with a hard threshold over cosine similarity, our proposed method accounts for the scale inconsistencies of this measure, considering the margin between a given sentence pair and its closest candidates instead. Our experiments show large improvements over existing methods. We outperform the best published results on the BUCC mining task and the UN reconstruction task by more than 10 F1 and 30 precision points, respectively. Filtering the English-German ParaCrawl corpus with our approach, we obtain 31.2 BLEU points on newstest2014, an improvement of more than one point over the best official filtered version.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1309.pdf",
+        "title": "Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings"
+    },
+    {
+        "paper_id": "P19-1316",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "The compositionality degree of multiword expressions indicates to what extent the meaning of a phrase can be derived from the meaning of its constituents and their grammatical relations. Prediction of (non)-compositionality is a task that has been frequently addressed with distributional semantic models. We introduce a novel technique to blend hierarchical information with distributional information for predicting compositionality. In particular, we use hypernymy information of the multiword and its constituents encoded in the form of the recently introduced Poincar\u00e9 embeddings in addition to the distributional information to detect compositionality for noun phrases. Using a weighted average of the distributional similarity and a Poincar\u00e9 similarity function, we obtain consistent and substantial, statistically significant improvement across three gold standard datasets over state-of-the-art models based on distributional information only. Unlike traditional approaches that solely use an unsupervised setting, we have also framed the problem as a supervised task, obtaining comparable improvements. Further, we publicly release our Poincar\u00e9 embeddings, which are trained on the output of handcrafted lexical-syntactic patterns on a large corpus.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1316.pdf",
+        "title": "On the Compositionality Prediction of Noun Phrases using Poincar\u00e9 Embeddings"
+    },
+    {
+        "paper_id": "P19-1332",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Paraphrasing exists at different granularity levels, such as lexical level, phrasal level and sentential level. This paper presents Decomposable Neural Paraphrase Generator (DNPG), a Transformer-based model that can learn and generate paraphrases of a sentence at different levels of granularity in a disentangled way. Specifically, the model is composed of multiple encoders and decoders with different structures, each of which corresponds to a specific granularity. The empirical study shows that the decomposition mechanism of DNPG makes paraphrase generation more interpretable and controllable. Based on DNPG, we further develop an unsupervised domain adaptation method for paraphrase generation. Experimental results show that the proposed model achieves competitive in-domain performance compared to state-of-the-art neural models, and significantly better performance when adapting to a new domain.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1332.pdf",
+        "title": "Decomposable Neural Paraphrase Generation"
+    },
+    {
+        "paper_id": "P19-1370",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "We study learning of a matching model for response selection in retrieval-based dialogue systems. The problem is equally important with designing the architecture of a model, but is less explored in existing literature. To learn a robust matching model from noisy training data, we propose a general co-teaching framework with three specific teaching strategies that cover both teaching with loss functions and teaching with data curriculum. Under the framework, we simultaneously learn two matching models with independent training sets. In each iteration, one model transfers the knowledge learned from its training set to the other model, and at the same time receives the guide from the other model on how to overcome noise in training. Through being both a teacher and a student, the two models learn from each other and get improved together. Evaluation results on two public data sets indicate that the proposed learning approach can generally and significantly improve the performance of existing matching models.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1370.pdf",
+        "title": "Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems"
+    },
+    {
+        "paper_id": "P19-1402",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Existing approaches for learning word embedding often assume there are sufficient occurrences for each word in the corpus, such that the representation of words can be accurately estimated from their contexts. However, in real-world scenarios, out-of-vocabulary (a.k.a. OOV) words that do not appear in training corpus emerge frequently. How to learn accurate representations of these words to augment a pre-trained embedding by only a few observations is a challenging research problem. In this paper, we formulate the learning of OOV embedding as a few-shot regression problem by fitting a representation function to predict an oracle embedding vector (defined as embedding trained with abundant observations) based on limited contexts. Specifically, we propose a novel hierarchical attention network-based embedding framework to serve as the neural regression function, in which the context information of a word is encoded and aggregated from K observations. Furthermore, we propose to use Model-Agnostic Meta-Learning (MAML) for adapting the learned model to the new corpus fast and robustly. Experiments show that the proposed approach significantly outperforms existing methods in constructing an accurate embedding for OOV words and improves downstream tasks when the embedding is utilized.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1402.pdf",
+        "title": "Few-Shot Representation Learning for Out-Of-Vocabulary Words"
+    },
+    {
+        "paper_id": "P19-1410",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "We propose an efficient neural framework for sentence-level discourse analysis in accordance with Rhetorical Structure Theory (RST). Our framework comprises a discourse segmenter to identify the elementary discourse units (EDU) in a text, and a discourse parser that constructs a discourse tree in a top-down fashion. Both the segmenter and the parser are based on Pointer Networks and operate in linear time. Our segmenter yields an F1 score of 95.4%, and our parser achieves an F1 score of 81.7% on the aggregated labeled (relation) metric, surpassing previous approaches by a good margin and approaching human agreement on both tasks (98.3 and 83.0 F1).",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1410.pdf",
+        "title": "A Unified Linear-Time Framework for Sentence-Level Discourse Parsing"
+    },
+    {
+        "paper_id": "P19-1427",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "While most neural machine translation (NMT)systems are still trained using maximum likelihood estimation, recent work has demonstrated that optimizing systems to directly improve evaluation metrics such as BLEU can significantly improve final translation accuracy. However, training with BLEU has some limitations: it doesn\u2019t assign partial credit, it has a limited range of output values, and it can penalize semantically correct hypotheses if they differ lexically from the reference. In this paper, we introduce an alternative reward function for optimizing NMT systems that is based on recent work in semantic similarity. We evaluate on four disparate languages trans-lated to English, and find that training with our proposed metric results in better translations as evaluated by BLEU, semantic similarity, and human evaluation, and also that the optimization procedure converges faster. Analysis suggests that this is because the proposed metric is more conducive to optimization, assigning partial credit and providing more diversity in scores than BLEU",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1427.pdf",
+        "title": "Beyond BLEU:Training Neural Machine Translation with Semantic Similarity"
+    },
+    {
+        "paper_id": "P19-1444",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "We present a neural approach called IRNet for complex and cross-domain Text-to-SQL. IRNet aims to address two challenges: 1) the mismatch between intents expressed in natural language (NL) and the implementation details in SQL; 2) the challenge in predicting columns caused by the large number of out-of-domain words. Instead of end-to-end synthesizing a SQL query, IRNet decomposes the synthesis process into three phases. In the first phase, IRNet performs a schema linking over a question and a database schema. Then, IRNet adopts a grammar-based neural model to synthesize a SemQL query which is an intermediate representation that we design to bridge NL and SQL. Finally, IRNet deterministically infers a SQL query from the synthesized SemQL query with domain knowledge. On the challenging Text-to-SQL benchmark Spider, IRNet achieves 46.7% accuracy, obtaining 19.5% absolute improvement over previous state-of-the-art approaches. At the time of writing, IRNet achieves the first position on the Spider leaderboard.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1444.pdf",
+        "title": "Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation"
+    },
+    {
+        "paper_id": "P19-1458",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Text classification approaches have usually required task-specific model architectures and huge labeled datasets. Recently, thanks to the rise of text-based transfer learning techniques, it is possible to pre-train a language model in an unsupervised manner and leverage them to perform effective on downstream tasks. In this work we focus on Japanese and show the potential use of transfer learning techniques in text classification. Specifically, we perform binary and multi-class sentiment classification on the Rakuten product review and Yahoo movie review datasets. We show that transfer learning-based approaches perform better than task-specific models trained on 3 times as much data. Furthermore, these approaches perform just as well for language modeling pre-trained on only 1/30 of the data. We release our pre-trained models and code as open source.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1458.pdf",
+        "title": "An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese"
+    },
+    {
+        "paper_id": "P19-1475",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Researchers illustrate improvements in contextual encoding strategies via resultant performance on a battery of shared Natural Language Understanding (NLU) tasks. Many of these tasks are of a categorical prediction variety: given a conditioning context (e.g., an NLI premise), provide a label based on an associated prompt (e.g., an NLI hypothesis). The categorical nature of these tasks has led to common use of a cross entropy log-loss objective during training. We suggest this loss is intuitively wrong when applied to plausibility tasks, where the prompt by design is neither categorically entailed nor contradictory given the context. Log-loss naturally drives models to assign scores near 0.0 or 1.0, in contrast to our proposed use of a margin-based loss. Following a discussion of our intuition, we describe a confirmation study based on an extreme, synthetically curated task derived from MultiNLI. We find that a margin-based loss leads to a more plausible model of plausibility. Finally, we illustrate improvements on the Choice Of Plausible Alternative (COPA) task through this change in loss.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1475.pdf",
+        "title": "Learning to Rank for Plausible Plausibility"
+    },
+    {
+        "paper_id": "P19-1487",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Deep learning models perform poorly on tasks that require commonsense reasoning, which often necessitates some form of world-knowledge or reasoning over information not immediately present in the input. We collect human explanations for commonsense reasoning in the form of natural language sequences and highlighted annotations in a new dataset called Common Sense Explanations (CoS-E). We use CoS-E to train language models to automatically generate explanations that can be used during training and inference in a novel Commonsense Auto-Generated Explanation (CAGE) framework. CAGE improves the state-of-the-art by 10% on the challenging CommonsenseQA task. We further study commonsense reasoning in DNNs using both human and auto-generated explanations including transfer to out-of-domain tasks. Empirical results indicate that we can effectively leverage language models for commonsense reasoning.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1487.pdf",
+        "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning"
+    },
+    {
+        "paper_id": "P19-1530",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "The Penn Treebank (PTB) represents syntactic structures as graphs due to nonlocal dependencies. This paper proposes a method that approximates PTB graph-structured representations by trees. By our approximation method, we can reduce nonlocal dependency identification and constituency parsing into single tree-based parsing. An experimental result demonstrates that our approximation method with an off-the-shelf tree-based constituency parser significantly outperforms the previous methods in nonlocal dependency identification.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1530.pdf",
+        "title": "PTB Graph Parsing with Tree Approximation"
+    },
+    {
+        "paper_id": "P19-1565",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Many real-world open-domain conversation applications have specific goals to achieve during open-ended chats, such as recommendation, psychotherapy, education, etc. We study the problem of imposing conversational goals on open-domain chat agents. In particular, we want a conversational system to chat naturally with human and proactively guide the conversation to a designated target subject. The problem is challenging as no public data is available for learning such a target-guided strategy. We propose a structured approach that introduces coarse-grained keywords to control the intended content of system responses. We then attain smooth conversation transition through turn-level supervised learning, and drive the conversation towards the target with discourse-level constraints. We further derive a keyword-augmented conversation dataset for the study. Quantitative and human evaluations show our system can produce meaningful and effective conversations, significantly improving over other approaches",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1565.pdf",
+        "title": "Target-Guided Open-Domain Conversation"
+    },
+    {
+        "paper_id": "P19-1570",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "We present an unsupervised method to generate Word2Sense word embeddings that are interpretable \u2014 each dimension of the embedding space corresponds to a fine-grained sense, and the non-negative value of the embedding along the j-th dimension represents the relevance of the j-th sense to the word. The underlying LDA-based generative model can be extended to refine the representation of a polysemous word in a short context, allowing us to use the embedings in contextual tasks. On computational NLP tasks, Word2Sense embeddings compare well with other word embeddings generated by unsupervised methods. Across tasks such as word similarity, entailment, sense induction, and contextual interpretation, Word2Sense is competitive with the state-of-the-art method for that task. Word2Sense embeddings are at least as sparse and fast to compute as prior art.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1570.pdf",
+        "title": "Word2Sense: Sparse Interpretable Word Embeddings"
+    },
+    {
+        "paper_id": "P19-1581",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Unseen words, also called out-of-vocabulary words (OOVs), are difficult for machine translation. In neural machine translation, byte-pair encoding can be used to represent OOVs, but they are still often incorrectly translated. We improve the translation of OOVs in NMT using easy-to-obtain monolingual data. We look for OOVs in the text to be translated and translate them using simple-to-construct bilingual word embeddings (BWEs). In our MT experiments we take the 5-best candidates, which is motivated by intrinsic mining experiments. Using all five of the proposed target language words as queries we mine target-language sentences. We then back-translate, forcing the back-translation of each of the five proposed target-language OOV-translation-candidates to be the original source-language OOV. We show that by using this synthetic data to fine-tune our system the translation of OOVs can be dramatically improved. In our experiments we use a system trained on Europarl and mine sentences containing medical terms from monolingual data.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1581.pdf",
+        "title": "Better OOV Translation with Bilingual Terminology Mining"
+    },
+    {
+        "paper_id": "P19-1603",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Automatic story ending generation is an interesting and challenging task in natural language generation. Previous studies are mainly limited to generate coherent, reasonable and diversified story endings, and few works focus on controlling the sentiment of story endings. This paper focuses on generating a story ending which meets the given fine-grained sentiment intensity. There are two major challenges to this task. First is the lack of story corpus which has fine-grained sentiment labels. Second is the difficulty of explicitly controlling sentiment intensity when generating endings. Therefore, we propose a generic and novel framework which consists of a sentiment analyzer and a sentimental generator, respectively addressing the two challenges. The sentiment analyzer adopts a series of methods to acquire sentiment intensities of the story dataset. The sentimental generator introduces the sentiment intensity into decoder via a Gaussian Kernel Layer to control the sentiment of the output. To the best of our knowledge, this is the first endeavor to control the fine-grained sentiment for story ending generation without manually annotating sentiment labels. Experiments show that our proposed framework can generate story endings which are not only more coherent and fluent but also able to meet the given sentiment intensity better.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1603.pdf",
+        "title": "Learning to Control the Fine-grained Sentiment for Story Ending Generation"
+    },
+    {
+        "paper_id": "P19-1613",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Multi-hop Reading Comprehension (RC) requires reasoning and aggregation across several paragraphs. We propose a system for multi-hop RC that decomposes a compositional question into simpler sub-questions that can be answered by off-the-shelf single-hop RC models. Since annotations for such decomposition are expensive, we recast subquestion generation as a span prediction problem and show that our method, trained using only 400 labeled examples, generates sub-questions that are as effective as human-authored sub-questions. We also introduce a new global rescoring approach that considers each decomposition (i.e. the sub-questions and their answers) to select the best final answer, greatly improving overall performance. Our experiments on HotpotQA show that this approach achieves the state-of-the-art results, while providing explainable evidence for its decision making in the form of sub-questions.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1613.pdf",
+        "title": "Multi-hop Reading Comprehension through Question Decomposition and Rescoring"
+    },
+    {
+        "paper_id": "P19-1617",
+        "conference": "acl",
+        "year": "2019",
+        "abstract": "Text-based question answering (TBQA) has been studied extensively in recent years. Most existing approaches focus on finding the answer to a question within a single paragraph. However, many difficult questions require multiple supporting evidence from scattered text among two or more documents. In this paper, we propose Dynamically Fused Graph Network (DFGN), a novel method to answer those questions requiring multiple scattered evidence and reasoning over them. Inspired by human\u2019s step-by-step reasoning behavior, DFGN includes a dynamic fusion layer that starts from the entities mentioned in the given query, explores along the entity graph dynamically built from the text, and gradually finds relevant supporting entities from the given documents. We evaluate DFGN on HotpotQA, a public TBQA dataset requiring multi-hop reasoning. DFGN achieves competitive results on the public board. Furthermore, our analysis shows DFGN produces interpretable reasoning chains.",
+        "url_pdf": "https://www.aclweb.org/anthology/P19-1617.pdf",
+        "title": "Dynamically Fused Graph Network for Multi-hop Reasoning"
+    }
+]
